@@ -1,4 +1,4 @@
-USE [***REMOVED***]
+USE [**REMOVED**]
 GO
 
 /****** Object:  UserDefinedFunction [dbo].[udf_IssuePrice]    Script Date: 10/10/2015 7:20:49 AM ******/

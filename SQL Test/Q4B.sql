@@ -1,4 +1,4 @@
-USE [***REMOVED***]
+USE [**REMOVED**]
 GO
 
 DECLARE @portf_id int

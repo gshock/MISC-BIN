@@ -1,4 +1,4 @@
-USE [***REMOVED***]
+USE [**REMOVED**]
 GO
 
 /****** Object:  StoredProcedure [dbo].[usp_Portfolio_Issuer_List]    Script Date: 10/10/2015 7:19:54 AM ******/

@@ -1,4 +1,4 @@
-USE [***REMOVED***]
+USE [**REMOVED**]
 GO
 
 /****** Object:  UserDefinedFunction [dbo].[tf_Asset_Portfolio]    Script Date: 10/11/2015 8:33:47 PM ******/
